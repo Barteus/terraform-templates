@@ -1,0 +1,12 @@
+# IntelliJ
+out/
+.idea
+
+#python env
+venv
+
+#terraform
+.terraform
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.backup
